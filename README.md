@@ -34,3 +34,23 @@
 --------------------------------------------------------------------
 
 #CSS/JS : Bootstrap CDN
+
+--------------------------------
+#GIT에 올린다 보험용
+다른 사람과의 공유 용이
+컴퓨터 고장나도 언제든 다시 다운로드 받을 수 있다
+
+밑에 git init
+git status
+git add . 1.모든 파일 추가 한다
+git commit -m#(message 준말)
+git commit -m"update README.md" 2.변경된거 메세지 남기기
+git remote add origin https://github.com/yyr9353/POSTINGS.git #처음 연결시만 리코트로 
+나머지는 푸쉬를 쓴다 3.깃허브에 파일 올림
+ git push -u origin master
+ 아이디 비번 누른다
+ rails g model posting
+ db 파일로 들어감
+ 
+ rake db migrate
+ 
