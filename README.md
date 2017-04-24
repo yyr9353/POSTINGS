@@ -54,3 +54,5 @@ git remote add origin https://github.com/yyr9353/POSTINGS.git #처음 연결시�
  
  rake db migrate
  
+ nav bar 넣을때 어플리케이션에 넣는게 좋다 body 뒤에 넣는다 그래야 다른 페이지로 넘어가더라도 네비바 항상 나오게 할 수 있다
+ 
